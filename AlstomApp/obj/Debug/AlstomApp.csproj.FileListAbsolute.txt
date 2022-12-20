@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\AlstomApp\AlstomApp\bin\Debug\AlstomApp.exe.config
+C:\Users\hp\source\repos\AlstomApp\AlstomApp\bin\Debug\AlstomApp.exe
+C:\Users\hp\source\repos\AlstomApp\AlstomApp\bin\Debug\AlstomApp.pdb
+C:\Users\hp\source\repos\AlstomApp\AlstomApp\obj\Debug\AlstomApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\AlstomApp\AlstomApp\obj\Debug\AlstomApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\AlstomApp\AlstomApp\obj\Debug\AlstomApp.Form1.resources
+C:\Users\hp\source\repos\AlstomApp\AlstomApp\obj\Debug\AlstomApp.Properties.Resources.resources
+C:\Users\hp\source\repos\AlstomApp\AlstomApp\obj\Debug\AlstomApp.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\AlstomApp\AlstomApp\obj\Debug\AlstomApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AlstomApp\AlstomApp\obj\Debug\AlstomApp.exe
+C:\Users\hp\source\repos\AlstomApp\AlstomApp\obj\Debug\AlstomApp.pdb
